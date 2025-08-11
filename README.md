@@ -15,6 +15,8 @@ Matricula: Ronaldo Coelho Junior
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![print tela replit](images/printreplit1.jpg)
+![print tela replit](images/printreplit2.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
