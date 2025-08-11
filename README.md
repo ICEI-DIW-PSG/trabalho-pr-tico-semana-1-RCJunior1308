@@ -9,7 +9,7 @@ Matricula:
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegadorr>`
+`<Coloque aqui o print da tela de inspeção do seu navegador>`
 
 ## Tela de projeto no Replit
 
