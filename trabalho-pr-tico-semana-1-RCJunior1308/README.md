@@ -4,18 +4,16 @@
 
 ## Informações Gerais
 
-Nome: 898895
-Matricula: Ronaldo Coelho Junior
+Nome:
+Matricula:
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![Print da tela de inspeção do site.](images/printinspecao.jpg)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-![print tela replit](images/replit00.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
